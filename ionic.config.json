@@ -1,0 +1,8 @@
+{
+  "name": "pofi",
+  "app_id": "7a1b5474",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
