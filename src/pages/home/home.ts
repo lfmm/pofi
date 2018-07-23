@@ -11,4 +11,8 @@ export class HomePage {
 
   }
 
+  btnClick(): void {
+    alert('Button clicked...');
+  }
+
 }
